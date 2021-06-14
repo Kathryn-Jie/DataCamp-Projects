@@ -9,3 +9,8 @@
 - Analyze the relative popularity of programming languages over time based on Stack Overflow data.
 - Topics related: Data Manipulation, Data Visualization, Importing & Cleaning Data.
 - R packages used: dplyr, ggplot2
+
+3. Predict Taxi Fares with Random Forests
+- Use regression trees and random forests to find places where New York taxi drivers earn the most.
+- Topics related: Supervised Learning in R (Regression), Data Manipulation with dplyr, Introduction to Data Visualization with ggplot2.
+- R packages used: tidyverse, ggmap, viridis, tree, lubridate, randomForest
