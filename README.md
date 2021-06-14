@@ -14,3 +14,8 @@
 - Use regression trees and random forests to find places where New York taxi drivers earn the most.
 - Topics related: Supervised Learning in R (Regression), Data Manipulation with dplyr, Introduction to Data Visualization with ggplot2.
 - R packages used: tidyverse, ggmap, viridis, tree, lubridate, randomForest
+
+4. What Makes a Pokémon Legendary?
+- Use tree-based machine learning methods to identify the characteristics of legendary Pokémon.
+- Topics related: Supervised Learning in R (Classification), Tree-Based Models in R, Introduction to the Tidyverse
+- R packages used: tidyverse, rpart, rpart.plot, randomForest, ROCR
