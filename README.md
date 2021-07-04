@@ -19,3 +19,7 @@
 - Use tree-based machine learning methods to identify the characteristics of legendary Pokémon.
 - Topics related: Supervised Learning in R (Classification), Tree-Based Models in R, Introduction to the Tidyverse
 - R packages used: tidyverse, rpart, rpart.plot, randomForest, ROCR
+
+5. Analyze International Debt Statistics
+- Write SQL queries to answer interesting questions about international debt using data from The World Bank.
+- Topics related: Data Manipulation, Importing & Cleaning Data in SQL
