@@ -23,3 +23,7 @@
 5. Analyze International Debt Statistics
 - Write SQL queries to answer interesting questions about international debt using data from The World Bank.
 - Topics related: Data Manipulation, Importing & Cleaning Data in SQL
+
+6. What and Where Are the World's Oldest Businesses?
+- Use SQL data manipulation and joins to discover the oldest businesses around the world.
+- Topics related: Data Manipulation in SQL
